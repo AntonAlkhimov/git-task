@@ -1,4 +1,4 @@
-# Автор: Anton Alkhimov
+# Автор:   Anton Alkhimov
 
 import math
 
